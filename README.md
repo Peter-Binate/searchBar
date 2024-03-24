@@ -1,1 +1,7 @@
-# searchBar
+```
+npm install
+```
+
+```
+npm start
+```
